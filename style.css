@@ -1,0 +1,97 @@
+@import "https://fonts.googleapis.com/css?family=Lobster";
+
+::-webkit-scrollbar {
+  width: 5px;
+  background-color: grey;
+  transition: 0.6s ease;
+}
+
+::-webkit-scrollbar:hover {
+  width: 50px;
+  background-color: white;
+}
+
+.t1 h1 {
+        font-size: 30px;
+        color: lime;
+        font-family: lobster;
+}
+
+.t1 p {
+        font-size: 25px;
+        color: cyan;
+        font-family: lobster;
+}
+
+.t2 h1 {
+        font-size: 30px;
+        color: lime;
+        font-family: lobster;
+}
+
+.t2 p {
+        font-size: 25px;
+        color: cyan;
+        font-family: lobster;
+}
+
+.t3 h1 {
+        font-size: 30px;
+        color: lime;
+        font-family: lobster;
+}
+
+.t3 p {
+        font-size: 25px;
+        color: cyan;
+        font-family: lobster;
+}
+
+.t4 h1 {
+        font-size: 30px;
+        color: lime;
+        font-family: lobster;
+}
+
+.t4 p {
+        font-size: 25px;
+        color: cyan;
+        font-family: lobster;
+}
+
+.t5 h1 {
+        font-size: 30px;
+        color: lime;
+        font-family: lobster;
+}
+
+.t5 p {
+        font-size: 25px;
+        color: cyan;
+        font-family: lobster;
+}
+
+footer {
+        font-size: 25px;
+        color: white;
+        font-family: lobster;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid #fff;
+	transition: 0.6s ease;
+  font-size: 25px;
+  font-family: lobster;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
